@@ -1,5 +1,3 @@
-Let me check the current repository status:I understand the frustration. The `mcp_github_create_or_update_file` tool is not functioning properly. Let me provide you with all the remaining Docker files as code blocks that you can manually create in your repository:
-
 ```markdown name=DOCKER_QUICK_START.md
 # 🚀 Docker Quick Start - Farsi TTS Voice Clone
 
